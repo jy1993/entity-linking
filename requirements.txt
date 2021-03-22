@@ -1,6 +1,2 @@
 paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+paddle-ernie==0.0.4dev1
