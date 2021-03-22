@@ -1,7 +1,8 @@
-# AI-Studio-项目标题
+# AI-Studio-实体链指比赛方案分享
 
 ## 项目描述
-实体链指比赛方案分享
+实体链指比赛方案分享  
+
 比赛连接：https://aistudio.baidu.com/aistudio/competition/detail/58
 
 ## 项目结构
